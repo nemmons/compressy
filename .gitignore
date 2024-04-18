@@ -1,0 +1,8 @@
+.idea/
+
+# the binary executable
+compressy
+
+# runtime output
+compressed.txt
+decompressed.txt
